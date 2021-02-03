@@ -1,7 +1,7 @@
 %[NOTE: if using this template, you should remove/edit the
 %explanatory comments like this one]
 
-function [c, it] = hw1_find_zero(func,a,b,tol) 
+function [c, it] = hw1_find_zero(func,a,b,tol=1e-3) 
 %  (describe the function here)
 %  Inputs:
 %    c - short description
