@@ -65,5 +65,5 @@ def loglog_ex():
     # now let's add a reference line of slope -3:
     ref = 10/n**3  # build C/n^3 line to plot
     # (just make sure it doesn't overlap with seq too much)
-    plt.plot(n, ref, '--r')
+    plt.loglog(n, ref, '--r')
     plt.legend(['$a_n$', 'slope -3'])
