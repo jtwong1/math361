@@ -15,3 +15,5 @@ Week 1-3:
 Week 4-6:
 - hilbert matrix example (*Matlab code only)
 - Homework 4 template code
+- Homework 4 solution code (trilu)
+(no template for HW 5)

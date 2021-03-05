@@ -44,7 +44,7 @@ def trisolve(A, b):
 
 def diff_matrix(n):
     """ construct the matrix for the example solve in banded form """
-    mat = np.zeros(n, 3)
+    mat = np.zeros((n, 3))
     for k in range(n):
         mat[k, 0] = -1  # a_(k,k-1)
         mat[k, 0] = 2  # a_(k,k)
