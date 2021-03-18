@@ -17,3 +17,7 @@ Week 4-6:
 - Homework 4 template code
 - Homework 4 solution code (trilu)
 (no template for HW 5)
+
+Week 7+:
+- Homework 5 solution code (hw5_gs)
+(no template for HW 6)
