@@ -19,5 +19,6 @@ Week 4-6:
 (no template for HW 5)
 
 Week 7+:
-- Homework 5 solution code (hw5_gs)
+- Homework 5 solution code (hw5_gs): Gauss-seidel code
 (no template for HW 6)
+- Homework 6 solution code (hw6_interp): interpolation
